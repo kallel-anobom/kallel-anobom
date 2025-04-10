@@ -1,6 +1,7 @@
 # Olá Pessoal! :vulcan_salute:
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+Full Stack Developer with 7+ years of experience building scalable web applications. 
+Skilled in modern front-end and back-end technologies, including JavaScript, Go, PHP
 
 ## :point_right: Para me encontrar:
 
