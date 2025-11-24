@@ -1,6 +1,6 @@
 # Olá Pessoal! :vulcan_salute:
 
-Full Stack Developer with 7+ years of experience building scalable web applications. 
+Full Stack Developer with 9+ years of experience building scalable web applications. 
 Skilled in modern front-end and back-end technologies, including JavaScript, Go, PHP
 
 ## :point_right: Para me encontrar:
