@@ -19,9 +19,4 @@ Skilled in modern front-end and back-end technologies, including JavaScript, Go,
 ![go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=whi)
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-> Lorem Ipsum is simply dummy text of the printing and typesetting industry - Lorem Ipsum
 
-![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=kallel-anobom&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
-
-## Repositories Status
-![Repositories Status](https://github-readme-stats.vercel.app/api?username=kallel-anobom&show_icons=true&theme=dracula)
